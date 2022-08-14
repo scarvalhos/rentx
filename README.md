@@ -25,11 +25,11 @@ Algumas das ferramentas que foram usadas na construção do projeto:
 
 
 <p style="display: flex; align-items: flex-start; justify-content: flex-start;">
-  <img alt="Rentx" title="#Rentx" src="./assets/home.png" width="150px">
-  <img alt="Rentx" title="#Rentx" src="./assets/detalhes.png" width="150px">
-  <img alt="Rentx" title="#Rentx" src="./assets/data-escolhida.png" width="150px">
-  <img alt="Rentx" title="#Rentx" src="./assets/detalhes-scheduling.png" width="150px">
-  <img alt="Rentx" title="#Rentx" src="./assets/completed.png" width="150px">
+  <img alt="Rentx" title="#Rentx" src="./assets/home.png" width="150px" style={{ margin: '0 20px' }}>
+  <img alt="Rentx" title="#Rentx" src="./assets/detalhes.png" width="150px" style={{ margin: '0 20px' }}>>
+  <img alt="Rentx" title="#Rentx" src="./assets/data-escolhida.png" width="150px" style={{ margin: '0 20px' }}>>
+  <img alt="Rentx" title="#Rentx" src="./assets/detalhes-scheduling.png" width="150px" style={{ margin: '0 20px' }}>>
+  <img alt="Rentx" title="#Rentx" src="./assets/completed.png" width="150px" style={{ margin: '0 20px' }}>>
 </p>
 
 
